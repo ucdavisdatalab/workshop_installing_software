@@ -1,10 +1,11 @@
-# Workshop: Installing Software with Pixi
-
 > [!IMPORTANT]  
 > This reader is archived and may be outdated. [Click here][new] for a newer
 > version.
 
-[new]: https://ucdavisdatalab.github.io/workshop_reproducible_research/
+[new]: https://github.com/ucdavisdatalab/workshop_reproducible_research
+
+
+# Workshop: Installing Software with Pixi
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
